@@ -1,0 +1,1 @@
+This is a modern blue themed todo app built with MERN stack. Frontend uses React with Vite, Backend uses Node.js/Express with MongoDB. Setup instructions included.
